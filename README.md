@@ -60,12 +60,11 @@ This project is a responsive hotel website designed for mobile users. It allows 
 3. Open `index.html` in a web browser.
 
 ## Presentation Link
-[Presentation Link](https://www.loom.com/share/e2f9a504d85142be91190181819c606e?sid=e30fe269-b7c8-497f-924b-eba70173e940)
-
+[Presentation link](https://www.loom.com/share/270dfb4c68dd4ccda46c937c8b79a725?sid=00078cc3-a895-49f8-9de4-2cf78cd8d251)
 ## Author
-Name: [Muhammad Farouk]
-Contact: [salihiyaha4@gmail.com]
- [[Github Profile](https://github.com/AV65)]
+Name: [Rabiu muhammad Abbas]
+Contact: [mddeigracia@gmail.com]
+ [[Github Profile](https://github.com/maikaratu)]
 
 ## License
 This project is licensed under the MIT License.
